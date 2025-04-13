@@ -15,7 +15,7 @@ Each of the columns corresponds to a machine IP address `IPV4_ADDRESS`, fully qu
 Here is an example machine database similar to the one used when creating this tutorial. Notice the IP addresses have been masked out. Your machines can be assigned any IP address as long as each machine is reachable from each other and the `jumpbox`.
 
 ```bash
-cat machines.txt
+cat machines-example.txt
 ```
 
 ```text
